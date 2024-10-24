@@ -1,4 +1,5 @@
-# Ex-12:Elgamal
+### Date: 05.10.2024
+# Ex-12: Elgamal
 ## AIM: 
 To implement ElGamal encryption and decryption for securing a message using public-key cryptography.
 
